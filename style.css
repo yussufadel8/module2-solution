@@ -2,12 +2,12 @@
 <html>
 
 *{
-    background-color: black;
+    background-color: red;
     box-sizing: border-box;
 }
 h1{
     text-align: center;
-    color: white;
+    color: black;
     font-size: 50px;
     margin-bottom: 15px;
 }
